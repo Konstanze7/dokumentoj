@@ -34,7 +34,7 @@ Por decidi pri la taŭgeco de la kandidatoj, estas rekomendite ke la Elekta Komi
 4. Trejnkursoj ĉeestitaj de la kandidato.
 5. Partopreno de la kandidato en almenaŭ unu estrarkunsido.
 6. Pozitive estas se kandidato jam iel (ekzemple kiel komisiito aŭ volontulo) aktivas rekte en TEJO.
-7. Kandidato estu preta iĝi komisiito por kunlabori kun la estrarano kies postenon li aŭ ŝi ŝatus transpreni.
+7. Kandidato estu preta iĝi komisiito por kunlabori kun la estrarano kies postenon la kandidato ŝatus transpreni.
 
 ## 4. Procezo
 En okazo de alelekto por aktuale oficanta Estraro, la procezo estas senprokrasta kaj laŭeble rapida. En okazo de ordinara elekto de nova Estraro la Elekta Komisiono kaj kandidatoj respektas jenajn limdatojn:
