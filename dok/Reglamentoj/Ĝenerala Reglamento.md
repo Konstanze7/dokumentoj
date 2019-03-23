@@ -12,7 +12,7 @@ La aligitaj kaj asociaj membroj ricevas la samajn membroservojn.
 
 ## 2. Komitatanoj
 1. Komitatano kaj kandidato por komitataneco devas esti individua membro de TEJO.
-2. Komitatano estas konsiderata kiel demisiinta, se li aŭ ŝi ne estas individua membro de TEJO tiam, kiam la Komitato kontrolas la konsisto de la ĉefaj organoj laŭ artikolo 8.
+2. Komitatano estas konsiderata kiel demisiinta, se tiu homo ne estas individua membro de TEJO tiam, kiam la Komitato kontrolas la konsisto de la ĉefaj organoj laŭ artikolo 8.
 3. Komitatano kiu ne partoprenas 3 sinsekvajn retajn voĉdonojn estas konsiderata kiel demisiinta.
 4. Komitatano kiu nek partoprenas 2 sinsekvajn retajn voĉdonojn nek komitatkunsidon (senanstataŭe) ene de la mandato estas konsiderata kiel demisiinta.
 5. Oni ne konsideras kiel sinsekvajn voĉdonojn tiujn, kiuj finiĝas en la sama tago laŭ la nederlanda horzono.
