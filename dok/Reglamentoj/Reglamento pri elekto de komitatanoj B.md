@@ -9,7 +9,7 @@ Reglamento pri elekto de komitatanoj B
 
 <ol>
 	<li>Pri la nombro de elekteblaj komitatanoj B validas la pli alta el la membrocifero je la komenco de la elektoproceduro kaj la membrocifero je la 31-a de decembro de la antaŭa jaro.</li>
-	<li>La ĝenerala sekretario anoncas en la oficiala gazeto la nombron de elekteblaj komitatanoj B kaj invitas kandidatojn. Li aŭ ŝi anoncas ankaŭ limdaton por la ricevo de la kandidatiĝoj en la Centra Oficejo, kiu devas esti minimume 45 tagojn post apero de la anonco.</li>
+	<li>La Ĝenerala Sekretario anoncas en la oficiala gazeto la nombron de elekteblaj komitatanoj B kaj invitas kandidatojn. La Ĝenerala Sekretario anoncas ankaŭ limdaton por la ricevo de la kandidatiĝoj en la Centra Oficejo, kiu devas esti minimume 45 tagojn post apero de la anonco.</li>
 	<li>
 		Valida kandidatiĝo konsistu el:
 		<ol type="A">
