@@ -15,7 +15,7 @@ En tiu ĉi Reglamento:
 	<li>“La Statuto” signifas la Statuton de Tutmonda Esperantista Junulara Organizo.</li>
 	<li>La terminoj “anstataŭanto”, “Estraro”, “Ĝenerala Sekretario”, “Vicprezidanto”, “Komitato”, “landa sekcio” kaj “faka sekcio” estas uzataj en la sama signifo kiel en la Regularo.</li>
 	<li>“UEA” signifas Universalan Esperanto-Asocion tian kia ĝi estas difinita de artikolo 2 de la Statuto.</li>
-	<li>“Prezidanto” signifas la Prezidanton de la Organizo. Okaze de la neĉeesto de la Prezidanto, ĝi signifas homon kiu lin aŭ ŝin anstataŭas.</li>
+	<li>“Prezidanto” signifas la Prezidanton de la Organizo. Okaze de la neĉeesto de la Prezidanto, ĝi signifas homon kiu anstataŭas la Prezidanton.</li>
 	<li>“Unua Vicprezidanto” signifas, el pluraj Vicprezidantoj, tiun kiu estas unua laŭvice, el unu Vicprezidanto la Vicprezidanton.</li>
 	<li>“Dua Vicprezidanto” signifas, el pluraj Vicprezidantoj, tiun kiu estas dua laŭvice.</li>
 	<li>“Tria Vicprezidanto” signifas, el tri Vicprezidantoj, tiun kiu estas tria laŭvice.</li>
@@ -25,7 +25,7 @@ En tiu ĉi Reglamento:
 	<li>“Kunsidestro” signifas la homon, kiu je iu ajn momento, efektive kaj laŭrajte prezidas sesion.</li>
 	<li>“Komitatano” signifas iun ajn el la homoj tiel menciitaj en artikolo 13.(2) de la Statuto. Dum ties periodo de ofico, ĝi signifas ankaŭ anstataŭanton de komitatano A.</li>
 	<li>“Ĝenerala Direktoro” signifas tiun personon de UEA kiu estas same nomita en paragrafo 44 de la Statuto de UEA.</li>
-	<li>“Patrono” signifas subtenanton de la Organizo tian kia li aŭ ŝi estas difinita de artikolo 11 de la Statuto.</li>
+	<li>“Patrono” signifas subtenanton de la Organizo laŭ la artikolo 11 de la Statuto.</li>
 	<li>“Membro” signifas individuan, asocian aŭ aligitan membron de la Organizo, aŭ Junan Amikon de Esperanto, tiajn kiaj ili estas difinitaj de artikolo 10 de la Statuto.</li>
 	<li>
 		“Partopreno” en decido signifas:
@@ -75,7 +75,7 @@ En tiu ĉi Reglamento:
 2. Landa Sekcio aŭ Faka Sekcio rajtas malnomumi (eksigi) komitatanon A nomumante alian komitatanon A skribe al la Ĝenerala Sekretario.
 3. Nomumo de anstataŭanto de komitatano A devas esti farita skribe al la Ĝenerala Sekretario de la koncerna komitatano A aŭ de estrarano de la koncerna Landa aŭ Faka Sekcio. Okaze je nomumo de malsamaj anstataŭantoj valoras la decido de la komitatano A.
 4. La Ĝenerala Sekretario devas ricevi nomumon de anstataŭanto plej malfrue dum la unua sesio de la kunveno, aŭ antaŭ la koncerna sesio, dum kiu la komitatano estu anstataŭata.
-5. Ĉiu komitatano A povas nomumi nur unu anstataŭanton por ĉiu sesio. Se la anstataŭanto jam estas komitatano aŭ anstataŭanto, li aŭ ŝi ekhavas aldonan voĉon. Dum la koncerna sesio la anstataŭata komitatano havas neniujn komitatajn rajtojn.
+5. Ĉiu komitatano A povas nomumi nur unu anstataŭanton por ĉiu sesio. Se la anstataŭanto jam estas komitatano aŭ anstataŭanto, la anstataŭanto ekhavas aldonan voĉon. Dum la koncerna sesio la anstataŭata komitatano havas neniujn komitatajn rajtojn.
 6. Estraranoj ne rajtas esti anstataŭantoj.
 7. Kunsidestro ne rajtas esti anstataŭanto.
 8. Neniu komitatano rajtas esti anstataŭanto de du aŭ pliaj komitatanoj.
