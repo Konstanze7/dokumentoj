@@ -8,7 +8,7 @@ Reglamento pri elekto de komitatanoj C
 ======================================
 
 <ol>
-	<li>La ĝenerala sekretario anoncas al la Junaj Amikoj de Esperanto la la kandidatiĝeblon kiel komitatanoj C kaj invitas kandidatojn. Li aŭ ŝi anoncas ankaŭ limdaton por la ricevo de la kandidatiĝoj kiu devas esti minimume 45 tagojn post apero de la anonco.</li>
+	<li>La Ĝenerala Sekretario anoncas al la Junaj Amikoj de Esperanto la la kandidatiĝeblon kiel komitatanoj C kaj invitas kandidatojn. La Ĝenerala Sekretario anoncas ankaŭ limdaton por la ricevo de la kandidatiĝoj kiu devas esti minimume 45 tagojn post apero de la anonco.</li>
 	<li>
 		Valida kandidatiĝo konsistu el:
 		<ol type="A">
